@@ -52,3 +52,21 @@ Final result: Accepts or rejects the string based on the transition path
 
  Clear error messages for malformed input or invalid transitions
 
+ # Pictures
+ 
+![Diagram](1.png)
+![Diagram](2.png)
+![Diagram](3.png)
+![Diagram](4.png)
+![Diagram](5.png)
+![Diagram](6.png)
+![Diagram](7.png)
+![Diagram](8.png)
+![Diagram](9.png)
+![Diagram](10.png)
+![Diagram](11.png)
+![Diagram](12.png)
+![Diagram](13.png)
+![Diagram](14.png)
+![Diagram](15.png)
+
